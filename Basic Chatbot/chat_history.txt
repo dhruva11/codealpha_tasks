@@ -1,0 +1,33 @@
+----- New Session -----
+🤖 Bot: Hello! I'm ChatBot.
+Type 'help' for commands.
+
+🤖 Bot: Let's chat! Do you enjoy coding projects?
+
+You: yes
+Bot: Nice! Building things with code is always exciting 🚀
+
+Here's another one: Do you like AI and chatbots?
+
+
+
+
+----- New Session -----
+🤖 Bot: Hello! I'm ChatBot.
+Type 'help' for commands.
+
+🤖 Bot: Let's chat! Do you enjoy coding projects?
+
+You: yes
+Bot: Nice! Building things with code is always exciting 🚀
+
+Here's another one: Do you like AI and chatbots?
+
+You: nope
+Bot: Great! I love AI as well 🤖
+
+Here's another one: What's 2 + 2?
+
+
+
+
